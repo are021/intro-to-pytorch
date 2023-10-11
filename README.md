@@ -1,6 +1,8 @@
 # intro-to-pytorch
 Learning the Basics of Pytorch through an Online Course
 
+### Course Credit - https://www.udacity.com/course/deep-learning-pytorch--ud188
+
 
 Create Virtual Environment
 `python3 -m venv env`
